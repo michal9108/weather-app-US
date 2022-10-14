@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Weather App for US Only
+
+<a href='https://weather-app-us-ad60a.web.app/'>
+<img src="https://github.com/michal9108/weather-app-US/blob/9d10b7c393e01d6bcd71b8ab615c512c96e38929/Weather-app-US.jpg" onClick="https://weather-app-us-ad60a.web.app/" width="100%" height="100%"/> 
+</p>
+</a>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
