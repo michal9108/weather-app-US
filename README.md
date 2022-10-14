@@ -5,12 +5,15 @@
 </p>
 </a>
 
+## Link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[https://weather-app-us-ad60a.web.app/](https://weather-app-us-ad60a.web.app/)
 
 ## Requirements
 
 Before using this project, you will need to have installed `yarn` and `axios` for accessing API.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Usage
 
