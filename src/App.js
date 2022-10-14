@@ -46,7 +46,7 @@ const searchLocation = (event) => {
 
                   <div className='bottom'>
                     <div className='feels'>
-                    {data.main ? <p className='bold'>{data.main.feels_like}°F</p> : null}
+                    {data.main ? <p className='bold'>{data.main.feels_like}°C</p> : null}
                     <p>Feels Like</p>
                     </div>
                     <div className='humidity'>
