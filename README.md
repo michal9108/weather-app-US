@@ -1,4 +1,4 @@
-# Weather App for US Only
+# Weather App for US Only - ReactJS
 
 <a href='https://weather-app-us-ad60a.web.app/'>
 <img src="https://github.com/michal9108/weather-app-US/blob/9d10b7c393e01d6bcd71b8ab615c512c96e38929/Weather-app-US.jpg" onClick="https://weather-app-us-ad60a.web.app/" width="100%" height="100%"/> 
@@ -31,7 +31,7 @@ https://openweathermap.org/api
 
 ## OpenWeather API
 
-After signing up to [https://openweathermap.org](https://openweathermap.org/) you can subscribe to access the free version of <b>Current Weather Data API</b>. Then  you will receive your own API key. More in information about how to make the API calls and how to choose optioonal parameters are here: [https://openweathermap.org/current](https://openweathermap.org/current).
+After signing up to [https://openweathermap.org](https://openweathermap.org/) you can subscribe to access the free version of <b>Current Weather Data API</b>. Then  you will receive your own API key. More in information about how to make the API calls and how to choose optional parameters are here: [https://openweathermap.org/current](https://openweathermap.org/current).
 
 To make sure that your API is working propresly you can put it your browser with specified location. For example: `https://api.openweathermap.org/data/2.5/weather?q=Miami&units=metric&appid=API` (instead of API choose your specific API). 
 
