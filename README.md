@@ -1,4 +1,4 @@
-# Weather App for US Only - ReactJS
+# Weather App for US Only - ReactJS + Firebase
 
 <a href='https://weather-app-us-ad60a.web.app/'>
 <img src="https://github.com/michal9108/weather-app-US/blob/9d10b7c393e01d6bcd71b8ab615c512c96e38929/Weather-app-US.jpg" onClick="https://weather-app-us-ad60a.web.app/" width="100%" height="100%"/> 
@@ -9,9 +9,12 @@
 
 [https://weather-app-us-ad60a.web.app/](https://weather-app-us-ad60a.web.app/)
 
+After entering US city, the weather data are going to be transfered through API.
+
+
 ## Requirements
 
-Before using this project, you will need to have installed `yarn` and `axios` for accessing API.
+Before using this project, you will need to have installed [Node.js](https://nodejs.org/en/), npm and [git](https://git-scm.com/) or [yarn](https://yarnpkg.com/).  For accessing API you need to have installed [axios](https://axios-http.com/docs/intro).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -20,8 +23,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```
 $ git clone https://github.com/michal9108/weather-app-US.git
 $ cd weather-app-US.git
-$ yarn install
-$ yarn add axios
+$ npm install or yarn install
+$ npm i qrcode or yarn add axios
 $ yarn run dev
 ```
 
@@ -42,7 +45,7 @@ Created response - Your API response - JSON file with all of its weather paramet
 
 ```
 # install dependencies
-$ yarn install
+$ npm install or yarn install
 
 # serve with hot reload at localhost:3000
 $ yarn run dev
