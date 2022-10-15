@@ -24,7 +24,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 $ git clone https://github.com/michal9108/weather-app-US.git
 $ cd weather-app-US.git
 $ npm install or yarn install
-$ npm i qrcode or yarn add axios
+$ npm i qrcode or yarn add qrcode
 $ yarn run dev
 ```
 
